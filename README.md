@@ -16,4 +16,4 @@ path have the same character assigned to them.
 • A5.cpp  
 
 ## PDF File : 
-22BCS10802_MANYATA_Day_6.pdf
+22BCS10802_MANYATA_DAY-6.pdf
